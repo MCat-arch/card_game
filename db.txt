@@ -1,0 +1,9 @@
+Warrior,,15,0.3,90,1
+Archer,Archer A,12,0.2,70,1
+Guardian,Guardian C,15,0.6,130,1
+Assassin,Assassin C,28,0.25,75,1
+Warrior,Warrior D,25,0.45,105,1
+Archer,Archer D,20,0.35,85,1
+Guardian,Guardian D,18,0.65,140,1
+Assassin, Assassin B, 20, 0.24, 100, 1
+
